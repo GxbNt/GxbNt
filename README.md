@@ -6,7 +6,7 @@
 - 🤝 Interested in collaborating on red team, cyber security research and advanced pentesting projects  
 - 🏅 Certification: CARTP, eMAPT
 - 🎤 Speaker at OWASP Kathmandu
-- 🛡️ CVE: 
+- 🛡️ CVE: CVE-2026-59959
 - 🔗 LinkedIn: https://linkedin.com/in/gxbnt  
 - 🧑‍💻 HackerOne: https://hackerone.com/gxbnt  
 - 🌐 Website: https://bishalray.com.np/
